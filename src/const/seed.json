@@ -1,0 +1,2322 @@
+[
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "fbcd5e7a-0843-4766-8227-fe40ff9404fc",
+        "message": "Join us for an exciting event this weekend!",
+        "sent_at": "2023-09-08T00:40:22.957Z",
+        "created_at": "2023-09-08T03:42:13.650Z",
+        "updated_at": "2023-09-08T17:41:33.468Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "67b1a78f-6a52-439f-b2a5-e089e90842c7",
+        "message": "Get exclusive discounts on our products",
+        "sent_at": "2023-09-08T00:25:21.629Z",
+        "created_at": "2023-09-08T19:09:22.241Z",
+        "updated_at": "2023-09-08T15:39:49.423Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a7fd8665-8d92-44d2-a284-97560f3287b0",
+        "message": "Stay updated with the latest news and updates",
+        "sent_at": "2023-09-08T20:51:29.473Z",
+        "created_at": "2023-09-08T15:51:08.967Z",
+        "updated_at": "2023-09-08T07:24:22.467Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "161dc0aa-67ba-4b0e-b42d-23f7fd8bb88d",
+        "message": "Learn new skills with our online courses",
+        "sent_at": "2023-09-08T14:25:30.255Z",
+        "created_at": "2023-09-08T22:27:00.788Z",
+        "updated_at": "2023-09-08T18:25:27.160Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a82bba25-52b6-4c5b-bcdc-788343f80b55",
+        "message": "Receive important notifications from us",
+        "sent_at": "2023-09-08T18:40:38.675Z",
+        "created_at": "2023-09-08T05:09:12.137Z",
+        "updated_at": "2023-09-08T18:04:16.958Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "032fbcf6-cefb-46e9-8d8e-4d4841c73028",
+        "title": "Monthly Newsletter",
+        "content": "Check out our featured articles and upcoming events",
+        "published_at": "2023-09-08T18:13:11.345Z",
+        "created_at": "2023-09-08T14:21:22.113Z",
+        "updated_at": "2023-09-08T11:08:45.085Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f76d5292-0feb-4ff4-81d6-7cf10e52a86b",
+        "title": "Industry Insights",
+        "content": "Get valuable insights from industry experts",
+        "published_at": "2023-09-08T03:14:44.287Z",
+        "created_at": "2023-09-08T06:08:02.594Z",
+        "updated_at": "2023-09-08T00:56:22.933Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "19a7d9f5-f636-4b26-bb8e-f6f04a57dd71",
+        "title": "Product Updates",
+        "content": "Learn about the latest enhancements to our products",
+        "published_at": "2023-09-08T11:46:01.229Z",
+        "created_at": "2023-09-08T10:26:46.060Z",
+        "updated_at": "2023-09-08T17:40:39.150Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "34503553-0f5c-4fd0-b4da-16d220ca7247",
+        "title": "Educational Resources",
+        "content": "Discover new educational resources to expand your knowledge",
+        "published_at": "2023-09-08T13:05:39.410Z",
+        "created_at": "2023-09-08T15:40:35.734Z",
+        "updated_at": "2023-09-08T10:40:01.181Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "36a793c2-11a9-48bf-8220-efb769ff46b7",
+        "title": "Health and Wellness Tips",
+        "content": "Stay healthy with our wellness tips and advice",
+        "published_at": "2023-09-08T12:19:50.006Z",
+        "created_at": "2023-09-08T22:47:31.161Z",
+        "updated_at": "2023-09-08T21:49:44.361Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "ecc97ef5-4e09-4c88-aaf3-f1e0c5e61d37",
+        "question": "How do I sign up for an account?",
+        "answer": "To sign up, simply click on the 'Sign Up' button on our homepage",
+        "price": 90923,
+        "created_at": "2023-09-08T10:30:25.785Z",
+        "updated_at": "2023-09-08T22:13:25.395Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1a20293c-9997-4a23-8f38-fd43aa25c6ca",
+        "question": "What payment methods do you accept?",
+        "answer": "We accept major credit cards and PayPal as payment methods",
+        "price": 93702,
+        "created_at": "2023-09-08T04:19:13.234Z",
+        "updated_at": "2023-09-08T08:12:01.123Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bf3fdeab-fd11-4b94-b667-4e50b799a584",
+        "question": "Can I cancel my subscription at any time?",
+        "answer": "Yes, you can cancel your subscription at any time without any penalties",
+        "price": 4757,
+        "created_at": "2023-09-08T06:13:05.144Z",
+        "updated_at": "2023-09-08T17:53:38.288Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e6d9a27b-318c-4ec1-9908-447f6ff7c5d2",
+        "question": "How long does it take to complete the course?",
+        "answer": "The course duration varies depending on the topic, but typically ranges from 4 to 8 weeks",
+        "price": 559,
+        "created_at": "2023-09-08T12:20:36.955Z",
+        "updated_at": "2023-09-08T13:11:10.542Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "31d6458c-19f0-4782-94df-2744646606fa",
+        "question": "Is there a free trial available?",
+        "answer": "Yes, we offer a free trial period for all our courses",
+        "price": 98928,
+        "created_at": "2023-09-08T09:57:48.531Z",
+        "updated_at": "2023-09-08T05:55:41.462Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "a2ad29b2-7ad5-43b0-bc06-5cff00da4ca9",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and start building your own applications",
+        "price": 39316,
+        "created_at": "2023-09-08T04:48:25.399Z",
+        "updated_at": "2023-09-08T04:58:05.969Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "61b09ca3-8610-4948-9a03-bc7055c14710",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Discover the key principles and strategies of digital marketing",
+        "price": 7572,
+        "created_at": "2023-09-08T00:46:06.285Z",
+        "updated_at": "2023-09-08T16:42:15.153Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2528b0b1-e794-4daa-8c35-55d44e77c697",
+        "title": "Financial Planning and Analysis",
+        "description": "Master financial planning and analysis techniques for effective decision-making",
+        "price": 760,
+        "created_at": "2023-09-08T05:37:42.016Z",
+        "updated_at": "2023-09-08T07:25:32.465Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "66dd112a-74b4-41ad-9403-7189eef9b90c",
+        "title": "Graphic Design for Beginners",
+        "description": "Explore the fundamentals of graphic design and unleash your creativity",
+        "price": 62972,
+        "created_at": "2023-09-08T16:31:49.639Z",
+        "updated_at": "2023-09-08T10:28:13.898Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a72e7e94-3ed4-4b31-80ff-f06b7e7df54e",
+        "title": "Yoga and Meditation",
+        "description": "Improve your physical and mental well-being through yoga and meditation practices",
+        "price": 79539,
+        "created_at": "2023-09-08T09:37:10.895Z",
+        "updated_at": "2023-09-08T18:40:03.386Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a6ef8f19-455c-4caf-b5f2-6dc81473940b",
+        "email": "Mozelle18@yahoo.com",
+        "firstName": "Allan",
+        "lastName": "Brakus",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36040051",
+        "tenantId": null
+      },
+      {
+        "reference": "ca626650-adba-48ce-8d48-c6f6c5a2ed05",
+        "email": "Shannon.Orn97@hotmail.com",
+        "firstName": "Marlene",
+        "lastName": "Berge-Morar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/548.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c06af0a4-3290-4efa-af74-cf2bdcf7f700",
+        "email": "Robbie_Schinner2@hotmail.com",
+        "firstName": "Lois",
+        "lastName": "Bechtelar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41926401",
+        "tenantId": null
+      },
+      {
+        "reference": "df7967b9-6d23-405e-a9e5-b3d34ab0decc",
+        "email": "Tate.Turcotte53@gmail.com",
+        "firstName": "Eldridge",
+        "lastName": "Haley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91336123",
+        "tenantId": null
+      },
+      {
+        "reference": "48144c86-d529-456e-bb75-65f650a30232",
+        "email": "Llewellyn.Miller25@gmail.com",
+        "firstName": "Eldred",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/90.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "3bf5a76f-bac6-4e4e-80dc-2ad876270871",
+        "message": "Don't miss out on our exclusive sale!",
+        "sent_at": "2023-09-08T20:43:34.533Z",
+        "created_at": "2023-09-08T17:15:56.962Z",
+        "updated_at": "2023-09-08T08:12:52.899Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "09622250-ffae-4b22-a677-1ac708b34f62",
+        "message": "Join us for the webinar on AI advancements",
+        "sent_at": "2023-09-08T07:16:43.574Z",
+        "created_at": "2023-09-08T10:09:00.517Z",
+        "updated_at": "2023-09-08T11:03:20.133Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d4b06107-fce3-44b3-9e65-97e15b54a81b",
+        "message": "Stay updated with the latest healthcare news",
+        "sent_at": "2023-09-08T13:39:43.874Z",
+        "created_at": "2023-09-08T00:12:57.293Z",
+        "updated_at": "2023-09-08T18:07:23.443Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d7f3c07b-ac0a-40f4-82c7-5a592691e031",
+        "message": "Learn about our upcoming courses",
+        "sent_at": "2023-09-08T21:52:21.630Z",
+        "created_at": "2023-09-08T13:28:41.344Z",
+        "updated_at": "2023-09-08T20:37:32.466Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f1033e14-ece2-4822-8837-cfb034a7a5c2",
+        "message": "Discover our new sustainable fashion collection",
+        "sent_at": "2023-09-08T13:33:50.366Z",
+        "created_at": "2023-09-08T12:05:53.576Z",
+        "updated_at": "2023-09-08T13:11:22.510Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "1404d32a-6eba-4e70-bd81-bc7c9397e239",
+        "title": "Monthly Newsletter - Issue 1",
+        "content": "In this month's newsletter, we share updates on our ongoing projects and initiatives.",
+        "published_at": "2023-09-08T03:41:11.709Z",
+        "created_at": "2023-09-08T14:03:41.019Z",
+        "updated_at": "2023-09-08T00:03:54.962Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5a48d295-a484-428a-86a9-6a2f77f6b0ae",
+        "title": "Tech Insights - July Edition",
+        "content": "Get valuable insights into the latest technological advancements and trends.",
+        "published_at": "2023-09-08T08:58:51.516Z",
+        "created_at": "2023-09-08T20:21:04.589Z",
+        "updated_at": "2023-09-08T10:22:48.211Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3c93da22-1f64-4239-9e53-b8dff5cfc182",
+        "title": "Health Matters - Latest Updates",
+        "content": "Stay informed about the latest developments in the healthcare industry.",
+        "published_at": "2023-09-08T23:14:07.439Z",
+        "created_at": "2023-09-08T08:24:18.519Z",
+        "updated_at": "2023-09-08T06:10:40.836Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c925b0d8-12c2-4857-922e-2e0a0adfdecf",
+        "title": "Education News - Fall 2022",
+        "content": "Learn about our upcoming courses and educational programs.",
+        "published_at": "2023-09-08T16:35:58.085Z",
+        "created_at": "2023-09-08T00:27:42.488Z",
+        "updated_at": "2023-09-08T01:14:10.771Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6f6814d6-05e4-4a97-ba28-28354b5776eb",
+        "title": "Fashion Forward - New Collection Launch",
+        "content": "Discover our new collection inspired by nature and sustainability.",
+        "published_at": "2023-09-08T16:21:36.682Z",
+        "created_at": "2023-09-08T12:53:30.613Z",
+        "updated_at": "2023-09-08T21:22:47.093Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "672b0403-801f-43ab-a65c-4245b61b5d15",
+        "question": "How can I become a member?",
+        "answer": "To become a member, simply fill out the registration form on our website.",
+        "price": 7216,
+        "created_at": "2023-09-08T13:04:36.453Z",
+        "updated_at": "2023-09-08T03:02:04.686Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ef99604d-79a5-4d9f-9abc-fefbea5f8a02",
+        "question": "What are the benefits of AI technology?",
+        "answer": "AI technology offers numerous benefits such as automation, improved efficiency, and data analysis.",
+        "price": 5514,
+        "created_at": "2023-09-08T21:02:48.656Z",
+        "updated_at": "2023-09-08T02:38:50.618Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e0affa23-6559-4522-b0ad-0c131eb64a5d",
+        "question": "How can I schedule an appointment?",
+        "answer": "You can schedule an appointment by calling our helpline or using our online booking system.",
+        "price": 53835,
+        "created_at": "2023-09-08T02:12:01.976Z",
+        "updated_at": "2023-09-08T21:36:59.257Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4e9f1c1a-f8fc-4bdb-8913-1acdcc9c7362",
+        "question": "What courses do you offer?",
+        "answer": "We offer a wide range of courses in various fields such as technology, business, and healthcare.",
+        "price": 9462,
+        "created_at": "2023-09-08T09:19:54.342Z",
+        "updated_at": "2023-09-08T22:48:58.493Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3d79ae1e-2f08-4f7e-961a-0103bf5fc85c",
+        "question": "What materials are used in your fashion products?",
+        "answer": "Our fashion products are made using sustainable materials such as organic cotton and recycled polyester.",
+        "price": 81644,
+        "created_at": "2023-09-08T05:01:15.410Z",
+        "updated_at": "2023-09-08T07:21:19.020Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "87206b1c-b9b7-4702-8ee6-485fa4a47e98",
+        "title": "Introduction to Artificial Intelligence",
+        "description": "Learn the basics of AI and its applications in various industries.",
+        "price": 59092,
+        "created_at": "2023-09-08T10:29:25.842Z",
+        "updated_at": "2023-09-08T18:48:41.529Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7de3197d-1583-4104-839d-9c0773e92d68",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing and online advertising.",
+        "price": 58842,
+        "created_at": "2023-09-08T21:55:32.832Z",
+        "updated_at": "2023-09-08T07:09:30.501Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "67066342-049b-47a3-8ed5-719ff7b50ae5",
+        "title": "Medical Ethics and Professionalism",
+        "description": "Explore ethical considerations in the medical field and develop professional skills.",
+        "price": 15696,
+        "created_at": "2023-09-08T17:50:39.975Z",
+        "updated_at": "2023-09-08T03:16:32.034Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "28acddf6-7487-4c59-bbdc-7224c21b3db1",
+        "title": "Creative Writing Workshop",
+        "description": "Enhance your creative writing skills through interactive workshops and exercises.",
+        "price": 75792,
+        "created_at": "2023-09-08T00:20:15.546Z",
+        "updated_at": "2023-09-08T03:41:19.381Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1420ed9a-deee-479c-b207-454b05e9be1a",
+        "title": "Sustainable Fashion Design",
+        "description": "Learn about sustainable fashion practices and design your own eco-friendly clothing.",
+        "price": 38325,
+        "created_at": "2023-09-08T23:38:40.097Z",
+        "updated_at": "2023-09-08T17:43:32.200Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "aa376c75-acb1-46d4-ac10-16763c699aa6",
+        "email": "Raleigh_Hane@hotmail.com",
+        "firstName": "Kasandra",
+        "lastName": "Corkery",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70953595",
+        "tenantId": null
+      },
+      {
+        "reference": "e896a826-cdc2-4c77-99aa-5b799cec10d6",
+        "email": "Gladys32@yahoo.com",
+        "firstName": "Tamia",
+        "lastName": "Bartell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/498.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a257bc1e-292a-430b-ac11-e4c82ed5462a",
+        "email": "Veronica.Yundt58@yahoo.com",
+        "firstName": "Irma",
+        "lastName": "Rosenbaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/500.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e9bc66f9-2a30-4f0c-b768-63c879ceaf60",
+        "email": "Daryl98@hotmail.com",
+        "firstName": "Lydia",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/419.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dd22bde0-24d4-404c-9df9-53bc5e2e5764",
+        "email": "Kasandra_Nienow17@yahoo.com",
+        "firstName": "Luisa",
+        "lastName": "Dooley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15702335",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "1d99ebc8-6d97-4c4c-a547-15ae8a1a98cf",
+        "message": "Exciting news! Join us for our upcoming event.",
+        "sent_at": "2023-09-08T23:08:58.032Z",
+        "created_at": "2023-09-08T20:47:48.905Z",
+        "updated_at": "2023-09-08T09:08:05.603Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2c1d99c4-c9f9-4bd4-aed2-99471799400e",
+        "message": "Don't miss out on our limited-time offer.",
+        "sent_at": "2023-09-08T16:55:42.373Z",
+        "created_at": "2023-09-08T16:53:36.577Z",
+        "updated_at": "2023-09-08T11:09:10.723Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "406ce22e-7996-4f2b-b2c4-154cc04e9f88",
+        "message": "Important update: Changes to our operating hours.",
+        "sent_at": "2023-09-08T11:37:54.267Z",
+        "created_at": "2023-09-08T04:02:59.035Z",
+        "updated_at": "2023-09-08T18:47:54.517Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "35f01f67-fe95-4fca-9cb4-bcd48da9d546",
+        "message": "Get ready for our exclusive product launch.",
+        "sent_at": "2023-09-08T14:38:47.094Z",
+        "created_at": "2023-09-08T12:37:11.372Z",
+        "updated_at": "2023-09-08T01:03:15.344Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2d0698e3-622c-43ba-927f-ac227880fa37",
+        "message": "Join our community and stay informed.",
+        "sent_at": "2023-09-08T11:25:57.546Z",
+        "created_at": "2023-09-08T11:58:23.011Z",
+        "updated_at": "2023-09-08T10:23:02.629Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "071fc245-2315-4cf9-a6c7-ca46d5e06d91",
+        "title": "Monthly Newsletter - Issue 1",
+        "content": "Discover the latest trends and insights in our industry.",
+        "published_at": "2023-09-08T18:23:56.052Z",
+        "created_at": "2023-09-08T16:13:50.437Z",
+        "updated_at": "2023-09-08T07:23:14.123Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a5566a1b-2273-40f0-bbd6-335141b5a6e3",
+        "title": "Stay Connected - Newsletter Edition",
+        "content": "Learn about our new product releases and updates.",
+        "published_at": "2023-09-08T04:03:42.530Z",
+        "created_at": "2023-09-08T16:27:48.844Z",
+        "updated_at": "2023-09-08T18:09:01.928Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "60fc13f7-0686-4cc7-b348-6675365b62a8",
+        "title": "Breaking News - Newsletter Update",
+        "content": "Get inspired with stories from our customers.",
+        "published_at": "2023-09-08T13:29:06.073Z",
+        "created_at": "2023-09-08T21:23:02.714Z",
+        "updated_at": "2023-09-08T15:10:40.659Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7c30d936-25d0-49c3-9dd5-eb983878d09b",
+        "title": "Exclusive Offers - Newsletter Special",
+        "content": "Stay informed about upcoming events and promotions.",
+        "published_at": "2023-09-08T18:09:13.522Z",
+        "created_at": "2023-09-08T15:53:35.175Z",
+        "updated_at": "2023-09-08T17:54:01.083Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b501aa06-7a4b-4fde-b87c-d22f3e9932b1",
+        "title": "Insider Insights - Newsletter Edition",
+        "content": "Gain valuable knowledge with our expert tips and advice.",
+        "published_at": "2023-09-08T00:50:43.725Z",
+        "created_at": "2023-09-08T04:42:18.565Z",
+        "updated_at": "2023-09-08T01:27:28.315Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "9484a591-de76-4d34-b5d2-3d560c6e3bac",
+        "question": "How do I create an account?",
+        "answer": "To create an account, simply click on the 'Sign Up' button and follow the instructions.",
+        "price": 65339,
+        "created_at": "2023-09-08T02:48:57.101Z",
+        "updated_at": "2023-09-08T07:52:05.897Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "50b009e9-745d-4bda-97a4-8f66445b9f49",
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards, PayPal, and Apple Pay.",
+        "price": 24455,
+        "created_at": "2023-09-08T04:06:10.094Z",
+        "updated_at": "2023-09-08T04:18:52.882Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8c57f15-2701-4409-b273-8cf479e31257",
+        "question": "Can I cancel my subscription?",
+        "answer": "Yes, you can cancel your subscription at any time by accessing your account settings.",
+        "price": 43437,
+        "created_at": "2023-09-08T23:48:48.787Z",
+        "updated_at": "2023-09-08T10:00:27.182Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1695e105-26eb-40cb-b66f-8801f2ae0729",
+        "question": "How long does shipping take?",
+        "answer": "Shipping times vary depending on your location. Please refer to our shipping policy for more information.",
+        "price": 32136,
+        "created_at": "2023-09-08T22:29:08.971Z",
+        "updated_at": "2023-09-08T19:52:30.931Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "845ee149-2e3c-4c6b-b66d-018139d412b5",
+        "question": "Do you offer refunds for returns?",
+        "answer": "Yes, we offer refunds for eligible returns within 30 days of purchase.",
+        "price": 74338,
+        "created_at": "2023-09-08T09:13:11.059Z",
+        "updated_at": "2023-09-08T07:15:14.891Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "7d075cea-2d7f-4dd0-9cfe-3840ab0788d9",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language and build your first projects.",
+        "price": 12574,
+        "created_at": "2023-09-08T19:39:12.872Z",
+        "updated_at": "2023-09-08T07:49:43.459Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c8f0ecdc-fc0e-46e5-bf7a-80390e77f605",
+        "title": "Web Development Fundamentals",
+        "description": "Master the essential skills for web development and create your own websites.",
+        "price": 82636,
+        "created_at": "2023-09-08T07:35:09.048Z",
+        "updated_at": "2023-09-08T10:17:09.448Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3542192d-2b0f-4bde-92c9-1326cb28f16a",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business.",
+        "price": 7071,
+        "created_at": "2023-09-08T10:25:34.344Z",
+        "updated_at": "2023-09-08T11:46:47.453Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4b56e598-882f-4841-a9a1-49071b93e572",
+        "title": "Financial Planning and Investment Basics",
+        "description": "Gain a solid understanding of financial planning and investment principles.",
+        "price": 37300,
+        "created_at": "2023-09-08T08:02:56.029Z",
+        "updated_at": "2023-09-08T04:11:59.211Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b499cd4a-2d67-4a2f-be1e-be9471275c9a",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the fascinating world of artificial intelligence and machine learning.",
+        "price": 9164,
+        "created_at": "2023-09-08T04:20:04.368Z",
+        "updated_at": "2023-09-08T13:31:40.754Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9bc40424-9b81-4c89-9f58-1d5b8e742e94",
+        "email": "Euna13@gmail.com",
+        "firstName": "Alize",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/574.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4f2d28b7-e949-435a-a582-818c6428c5fa",
+        "email": "Lavon12@gmail.com",
+        "firstName": "Gertrude",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75569733",
+        "tenantId": null
+      },
+      {
+        "reference": "dc53c13c-37f8-4223-804c-486b0acded28",
+        "email": "Lyda74@yahoo.com",
+        "firstName": "Kole",
+        "lastName": "Sawayn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5953344",
+        "tenantId": null
+      },
+      {
+        "reference": "3ff2a822-da17-48fb-a3c9-dd79c75f202f",
+        "email": "Orville_Collins@hotmail.com",
+        "firstName": "Roberta",
+        "lastName": "Schumm-Hackett",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21883800",
+        "tenantId": null
+      },
+      {
+        "reference": "8d3c86e8-b8ea-4917-8b90-43d4900e30f8",
+        "email": "Jay4@hotmail.com",
+        "firstName": "Hertha",
+        "lastName": "Kutch-Grady",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/868.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "4cc6adf9-2a60-425a-a7fa-dffdddcc668a",
+        "message": "Join us for our upcoming event on Saturday!",
+        "sent_at": "2023-09-08T13:31:37.615Z",
+        "created_at": "2023-09-08T10:58:28.887Z",
+        "updated_at": "2023-09-08T09:40:44.408Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3f4cccc4-dae3-4b1b-8d66-95b48177ef82",
+        "message": "Don't miss out on our limited-time offer!",
+        "sent_at": "2023-09-08T05:05:15.790Z",
+        "created_at": "2023-09-08T16:28:13.979Z",
+        "updated_at": "2023-09-08T22:11:25.723Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7858218d-698a-4bb4-928c-e6b39224d56e",
+        "message": "Stay updated with the latest news and updates",
+        "sent_at": "2023-09-08T04:27:19.041Z",
+        "created_at": "2023-09-08T15:46:36.891Z",
+        "updated_at": "2023-09-08T23:11:53.065Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "283cd2bf-dc3b-42e1-81f9-0a43a4fe79b6",
+        "message": "Get exclusive access to our new product launch",
+        "sent_at": "2023-09-08T12:48:22.396Z",
+        "created_at": "2023-09-08T07:41:01.203Z",
+        "updated_at": "2023-09-08T04:27:14.818Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1f3de77a-6a8f-4ad7-a198-933361a6cd7b",
+        "message": "Receive valuable tips and insights from industry experts",
+        "sent_at": "2023-09-08T00:37:50.266Z",
+        "created_at": "2023-09-08T13:18:19.586Z",
+        "updated_at": "2023-09-08T10:22:54.497Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "f3b3a143-7edd-4566-be4a-0974e7a7e86f",
+        "title": "Monthly Newsletter - Issue 1",
+        "content": "Welcome to our monthly newsletter! We have exciting updates and news to share with you.",
+        "published_at": "2023-09-08T03:47:38.181Z",
+        "created_at": "2023-09-08T13:55:25.762Z",
+        "updated_at": "2023-09-08T09:45:37.874Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5e5c3ed2-5f39-4b89-9d8e-144c7f856701",
+        "title": "Exclusive Newsletter - Special Edition",
+        "content": "In this special edition of our newsletter, we bring you exclusive content and offers.",
+        "published_at": "2023-09-08T00:42:32.929Z",
+        "created_at": "2023-09-08T08:00:24.610Z",
+        "updated_at": "2023-09-08T05:03:47.397Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2804763d-b4de-414d-9e1e-7320e2cf3d10",
+        "title": "Industry Insights - Newsletter",
+        "content": "Get valuable industry insights and stay informed about the latest trends.",
+        "published_at": "2023-09-08T00:45:13.558Z",
+        "created_at": "2023-09-08T13:11:01.363Z",
+        "updated_at": "2023-09-08T01:50:14.063Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "16b28b71-9f39-48ae-8341-469b3d9339b3",
+        "title": "Stay Connected - Newsletter",
+        "content": "Stay connected with us through our newsletter and never miss out on important announcements.",
+        "published_at": "2023-09-08T04:12:54.248Z",
+        "created_at": "2023-09-08T15:44:06.381Z",
+        "updated_at": "2023-09-08T09:17:00.565Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e3644d05-eb91-44cb-9658-7625720fa16a",
+        "title": "The Latest Updates - Newsletter",
+        "content": "Discover the latest updates and developments in our field through our newsletter.",
+        "published_at": "2023-09-08T15:49:32.575Z",
+        "created_at": "2023-09-08T05:35:57.598Z",
+        "updated_at": "2023-09-08T17:23:25.554Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "8f595e4f-2534-49aa-889c-7d1f04a0073b",
+        "question": "How can I reset my password?",
+        "answer": "To reset your password, go to the login page and click on the 'Forgot Password' link.",
+        "price": 39112,
+        "created_at": "2023-09-08T08:41:53.840Z",
+        "updated_at": "2023-09-08T05:45:16.999Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b4e04e7e-8f40-4f6c-a676-5e1c4cc6ed20",
+        "question": "What are the payment options available?",
+        "answer": "We accept various payment methods including credit cards, PayPal, and bank transfers.",
+        "price": 4654,
+        "created_at": "2023-09-08T12:19:30.643Z",
+        "updated_at": "2023-09-07T23:59:52.971Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0507a10c-9cf5-42e3-9178-b02deadd3890",
+        "question": "How do I contact customer support?",
+        "answer": "You can contact our customer support team through email, phone, or live chat.",
+        "price": 49948,
+        "created_at": "2023-09-08T23:07:37.693Z",
+        "updated_at": "2023-09-08T09:36:14.653Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "05bf4bf3-0d68-4c90-a460-b9a25c0865c9",
+        "question": "Can I cancel my subscription anytime?",
+        "answer": "Yes, you can cancel your subscription anytime by going to your account settings.",
+        "price": 95456,
+        "created_at": "2023-09-08T11:30:55.418Z",
+        "updated_at": "2023-09-08T23:25:21.717Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "739e3f1e-10aa-46a6-8ec4-4e48f2c535fd",
+        "question": "Are there any discounts for students?",
+        "answer": "Yes, we offer special discounts for students. Please provide your student ID for verification.",
+        "price": 15128,
+        "created_at": "2023-09-08T15:04:44.048Z",
+        "updated_at": "2023-09-08T00:30:41.444Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "3f4e10ac-8016-4fdd-b828-03d4ede19bed",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming and start building your own applications.",
+        "price": 3604,
+        "created_at": "2023-09-08T11:51:41.437Z",
+        "updated_at": "2023-09-08T15:10:37.231Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "58cb7a62-19d9-42d4-8421-c2b57c9a63f0",
+        "title": "Web Development for Beginners",
+        "description": "Get started with web development and create your first website from scratch.",
+        "price": 41358,
+        "created_at": "2023-09-08T15:20:06.110Z",
+        "updated_at": "2023-09-08T17:08:37.054Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f5535bd0-842a-41b4-88a8-abbc7cb42f28",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Discover the fundamentals of digital marketing and develop effective strategies.",
+        "price": 31034,
+        "created_at": "2023-09-08T22:45:28.531Z",
+        "updated_at": "2023-09-08T02:52:21.967Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c807cbd5-d087-4dc7-94e9-4bf64e6dc505",
+        "title": "Data Science and Machine Learning",
+        "description": "Explore the world of data science and machine learning with hands-on projects.",
+        "price": 67920,
+        "created_at": "2023-09-08T07:44:21.012Z",
+        "updated_at": "2023-09-08T18:20:27.887Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "18b80521-c104-4880-9e0a-52f66d95f71f",
+        "title": "Graphic Design Essentials",
+        "description": "Master the essentials of graphic design and unleash your creativity.",
+        "price": 17008,
+        "created_at": "2023-09-08T13:27:41.460Z",
+        "updated_at": "2023-09-08T14:57:51.548Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9c06932d-0eb2-4390-a47e-87acb168816b",
+        "email": "Simone_Moen@gmail.com",
+        "firstName": "Gisselle",
+        "lastName": "Auer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18123532",
+        "tenantId": null
+      },
+      {
+        "reference": "1e1c2a4c-f4a2-4339-8a96-d09e0e96debf",
+        "email": "Junior.Funk6@yahoo.com",
+        "firstName": "Haley",
+        "lastName": "Wisoky",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39906374",
+        "tenantId": null
+      },
+      {
+        "reference": "5452655e-7eb0-4699-813a-52b8e53ef94f",
+        "email": "Toney.Wisozk@yahoo.com",
+        "firstName": "Jayden",
+        "lastName": "Mueller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/627.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5c8d1c57-ebf8-4df1-b62e-20bd959f5158",
+        "email": "Devyn.Okuneva83@gmail.com",
+        "firstName": "Shyann",
+        "lastName": "Balistreri",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73076190",
+        "tenantId": null
+      },
+      {
+        "reference": "523e0627-dfd3-47f1-bd5c-33dd38cfc976",
+        "email": "Mose.Miller46@yahoo.com",
+        "firstName": "Giovanna",
+        "lastName": "Ebert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/353.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "6825270d-124f-4b68-89af-ab92f7594c0c",
+        "message": "Join us for the upcoming event on Saturday!",
+        "sent_at": "2023-09-08T21:45:02.677Z",
+        "created_at": "2023-09-08T19:20:20.845Z",
+        "updated_at": "2023-09-08T22:20:31.604Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b5b639fc-4e3c-45aa-a5a4-88f22748b975",
+        "message": "Exciting news! We have a special offer for our loyal customers.",
+        "sent_at": "2023-09-08T17:50:43.838Z",
+        "created_at": "2023-09-08T19:30:40.244Z",
+        "updated_at": "2023-09-08T01:33:21.029Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "533886a5-faf8-40af-a621-13db2ac578f8",
+        "message": "Stay tuned for the latest updates and announcements.",
+        "sent_at": "2023-09-08T19:56:26.165Z",
+        "created_at": "2023-09-08T13:01:54.571Z",
+        "updated_at": "2023-09-08T18:40:30.121Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "40124114-63cb-4b40-877c-647a573e68a1",
+        "message": "Don't miss out on this amazing opportunity!",
+        "sent_at": "2023-09-08T20:30:23.815Z",
+        "created_at": "2023-09-08T15:50:38.403Z",
+        "updated_at": "2023-09-08T08:15:55.290Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b2a44557-dcfc-4361-b04b-e1c94b3b4365",
+        "message": "Spread the word and invite your friends to our community.",
+        "sent_at": "2023-09-08T04:17:53.045Z",
+        "created_at": "2023-09-08T09:35:48.425Z",
+        "updated_at": "2023-09-08T11:49:05.890Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "8afdb25f-b358-43cf-ad80-d78abb540cc3",
+        "title": "Monthly Newsletter - May 2022",
+        "content": "Discover the latest trends in technology and innovation.",
+        "published_at": "2023-09-08T15:25:03.954Z",
+        "created_at": "2023-09-08T20:51:32.534Z",
+        "updated_at": "2023-09-08T13:14:01.434Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9f6bd63a-4772-40a0-a722-4382978cd3b6",
+        "title": "Exclusive Newsletter - Special Edition",
+        "content": "Read success stories of individuals who overcame challenges.",
+        "published_at": "2023-09-08T08:54:37.728Z",
+        "created_at": "2023-09-08T17:41:54.442Z",
+        "updated_at": "2023-09-08T12:13:07.430Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f0751904-fd37-47ad-a923-100f9552584f",
+        "title": "Latest News and Updates - June 2022",
+        "content": "Learn about upcoming events and workshops in your area.",
+        "published_at": "2023-09-08T00:01:06.630Z",
+        "created_at": "2023-09-08T04:23:19.466Z",
+        "updated_at": "2023-09-08T13:00:53.745Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3fb5a0f5-9d4c-41ff-8334-0ef397820589",
+        "title": "Inspirational Stories - Newsletter Edition",
+        "content": "Get exclusive discounts and offers for our subscribers.",
+        "published_at": "2023-09-08T17:16:13.518Z",
+        "created_at": "2023-09-08T12:25:18.367Z",
+        "updated_at": "2023-09-08T04:22:34.148Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e17a50f3-036e-4790-8706-abe1f9e828fc",
+        "title": "Insider Insights - Newsletter Issue",
+        "content": "Stay informed about important industry updates and news.",
+        "published_at": "2023-09-08T05:17:29.824Z",
+        "created_at": "2023-09-08T08:59:06.635Z",
+        "updated_at": "2023-09-08T18:00:52.149Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "cee18450-d99e-4007-a63b-a700a08a1184",
+        "question": "How do I sign up for the course?",
+        "answer": "To sign up for the course, simply visit our website and follow the registration process.",
+        "price": 28869,
+        "created_at": "2023-09-08T12:02:38.661Z",
+        "updated_at": "2023-09-08T12:00:05.459Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9024851b-de71-4e24-9b0f-62f973cceb14",
+        "question": "What are the payment options available?",
+        "answer": "We accept various payment methods including credit/debit cards and online transfers.",
+        "price": 68835,
+        "created_at": "2023-09-08T09:43:26.479Z",
+        "updated_at": "2023-09-08T09:47:37.124Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "58073ff1-5d0b-4d62-b3af-0cbb3b907bc9",
+        "question": "Can I cancel my subscription at any time?",
+        "answer": "Yes, you can cancel your subscription anytime by contacting our support team.",
+        "price": 67725,
+        "created_at": "2023-09-08T17:53:50.301Z",
+        "updated_at": "2023-09-08T17:11:08.179Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2d96b3f7-213e-4e97-a909-3b2bbc321226",
+        "question": "Are there any prerequisites for this program?",
+        "answer": "There are no specific prerequisites for this program. It is open to all interested individuals.",
+        "price": 66183,
+        "created_at": "2023-09-08T08:35:41.252Z",
+        "updated_at": "2023-09-08T15:38:46.575Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "47812843-6ede-4911-b867-1404959380d6",
+        "question": "How can I contact customer support?",
+        "answer": "You can contact our customer support team via email or phone. Visit our website for contact details.",
+        "price": 49440,
+        "created_at": "2023-09-08T23:30:31.855Z",
+        "updated_at": "2023-09-08T14:32:43.167Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "91e59868-f0d2-4069-bb5c-e57ae6aaeb64",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language and its applications.",
+        "price": 46647,
+        "created_at": "2023-09-08T09:58:27.836Z",
+        "updated_at": "2023-09-08T21:06:51.939Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "378a0d94-e4ff-44e3-a21a-575c1d7d14a4",
+        "title": "Web Development Bootcamp",
+        "description": "Become a skilled web developer through hands-on projects and exercises.",
+        "price": 16002,
+        "created_at": "2023-09-08T03:49:22.519Z",
+        "updated_at": "2023-09-08T17:08:02.878Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e49925f9-055d-4da0-aba7-983665271c56",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Gain a solid understanding of digital marketing principles and strategies.",
+        "price": 65243,
+        "created_at": "2023-09-08T01:19:57.729Z",
+        "updated_at": "2023-09-08T10:12:25.459Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b54678d6-dd08-4e22-b755-f85c8b89d164",
+        "title": "Graphic Design for Beginners",
+        "description": "Explore the world of graphic design and create stunning visual content.",
+        "price": 67732,
+        "created_at": "2023-09-08T20:32:41.157Z",
+        "updated_at": "2023-09-08T06:42:18.082Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5a7c0d44-e8a0-4851-9056-8aedbff00fee",
+        "title": "Financial Planning and Investment Strategies",
+        "description": "Learn how to effectively plan and manage your finances for long-term success.",
+        "price": 99481,
+        "created_at": "2023-09-08T23:28:06.898Z",
+        "updated_at": "2023-09-08T14:49:24.785Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d16820e7-c097-446c-8c25-38ecc78e7ab4",
+        "email": "Carolanne_Torphy63@hotmail.com",
+        "firstName": "Kattie",
+        "lastName": "Powlowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1027.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "af7b1d7b-ab1b-44be-8c5a-69d144090de6",
+        "email": "Serenity24@gmail.com",
+        "firstName": "Angel",
+        "lastName": "Lebsack",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/463.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ce843229-d865-4a90-89c4-a085fcd4a6a9",
+        "email": "Roman.Keeling52@gmail.com",
+        "firstName": "Magali",
+        "lastName": "Christiansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/220.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b044a5ab-2090-4f2c-bd01-d0cfaa668150",
+        "email": "Oleta_Corwin2@yahoo.com",
+        "firstName": "Osvaldo",
+        "lastName": "Bins",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/868.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6133ca6b-3a02-4184-9ce6-9fb608a5e7d3",
+        "email": "Elwyn_Waelchi@gmail.com",
+        "firstName": "Juliet",
+        "lastName": "Lehner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63160729",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "b297e74f-152d-489e-9816-ab78d9f7363a",
+        "message": "Don't forget to join our webinar tomorrow!",
+        "sent_at": "2023-09-08T08:41:07.883Z",
+        "created_at": "2023-09-08T15:20:39.749Z",
+        "updated_at": "2023-09-08T08:20:48.343Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ec04455b-6aea-474c-9c90-bf61d1fd8943",
+        "message": "New product launch coming soon!",
+        "sent_at": "2023-09-08T02:41:11.780Z",
+        "created_at": "2023-09-08T11:20:09.650Z",
+        "updated_at": "2023-09-08T04:41:10.683Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "25cf94b1-9267-4354-bdc0-31393f9731d4",
+        "message": "Exciting offers exclusively for our subscribers!",
+        "sent_at": "2023-09-08T14:35:31.263Z",
+        "created_at": "2023-09-08T05:35:11.712Z",
+        "updated_at": "2023-09-08T01:12:00.548Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4fbb0148-857c-4639-b26b-79a85da35a64",
+        "message": "Stay tuned for the latest updates!",
+        "sent_at": "2023-09-08T01:23:38.025Z",
+        "created_at": "2023-09-08T05:08:44.222Z",
+        "updated_at": "2023-09-08T18:17:31.372Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7424746b-b9a6-40a5-be09-4a5ac7ebf62c",
+        "message": "Join our community and make a difference!",
+        "sent_at": "2023-09-08T05:47:30.973Z",
+        "created_at": "2023-09-08T01:05:15.604Z",
+        "updated_at": "2023-09-08T12:18:02.121Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "1e60d344-abb9-48f2-89b4-7f4097283163",
+        "title": "Monthly Newsletter",
+        "content": "Check out our latest blog post on sustainable living.",
+        "published_at": "2023-09-08T10:15:33.912Z",
+        "created_at": "2023-09-08T08:48:31.922Z",
+        "updated_at": "2023-09-08T17:48:39.514Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b1190f09-df21-4678-8f18-bc19d7acb7f8",
+        "title": "Exclusive Updates",
+        "content": "Learn about the latest trends in technology.",
+        "published_at": "2023-09-08T14:20:52.706Z",
+        "created_at": "2023-09-08T21:59:10.518Z",
+        "updated_at": "2023-09-08T13:24:48.762Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "342c85c1-49d9-4569-a2a8-95c30d521d07",
+        "title": "Inspiring Stories",
+        "content": "Discover new fashion styles for the upcoming season.",
+        "published_at": "2023-09-08T14:56:23.381Z",
+        "created_at": "2023-09-08T05:07:32.771Z",
+        "updated_at": "2023-09-08T07:27:03.727Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b262ae37-5384-48fe-a4a2-a08788ea6e81",
+        "title": "Industry Insights",
+        "content": "Get motivated with success stories from our community.",
+        "published_at": "2023-09-08T09:39:08.614Z",
+        "created_at": "2023-09-08T05:34:17.851Z",
+        "updated_at": "2023-09-08T16:02:33.961Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1cf3af1a-0dec-4032-bf63-b6fd24a13691",
+        "title": "Tips & Tricks",
+        "content": "Stay informed with the latest news in the education sector.",
+        "published_at": "2023-09-08T08:56:49.956Z",
+        "created_at": "2023-09-08T22:28:20.340Z",
+        "updated_at": "2023-09-08T09:41:14.559Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "ed498fb6-3037-4c35-8cb3-9658b78a72b7",
+        "question": "How do I sign up for the course?",
+        "answer": "To sign up for the course, visit our website and click on the 'Sign Up' button.",
+        "price": 1681,
+        "created_at": "2023-09-08T22:51:40.120Z",
+        "updated_at": "2023-09-08T17:24:08.046Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "93a49dfc-dc3b-437a-ae1e-f074bd3797ff",
+        "question": "What payment methods do you accept?",
+        "answer": "We accept credit/debit cards and PayPal as payment methods.",
+        "price": 50592,
+        "created_at": "2023-09-08T03:32:21.799Z",
+        "updated_at": "2023-09-08T21:01:26.942Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b23b7625-4ba1-4c96-8bc9-2ec64bdb4d85",
+        "question": "Can I cancel my subscription anytime?",
+        "answer": "Yes, you can cancel your subscription anytime by going to your account settings.",
+        "price": 40992,
+        "created_at": "2023-09-08T02:36:52.557Z",
+        "updated_at": "2023-09-08T16:56:46.747Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d4f5aab4-27e5-4cc5-922f-3ed1781cdfa8",
+        "question": "Are there any prerequisites for this program?",
+        "answer": "There are no prerequisites for this program. It is suitable for beginners.",
+        "price": 91022,
+        "created_at": "2023-09-08T06:33:03.195Z",
+        "updated_at": "2023-09-08T22:49:36.471Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1092f9bd-c913-4fdd-8942-3c176412d95c",
+        "question": "How can I contact customer support?",
+        "answer": "You can contact our customer support team via email or phone. Visit our 'Contact Us' page for more details.",
+        "price": 37765,
+        "created_at": "2023-09-08T21:36:50.681Z",
+        "updated_at": "2023-09-08T19:10:25.134Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "4bf840d4-3f6d-40ff-aee4-593b5adb79fa",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language and start building your own applications.",
+        "price": 40464,
+        "created_at": "2023-09-08T14:38:41.937Z",
+        "updated_at": "2023-09-08T05:21:55.288Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d0b21530-134b-4f9e-b678-54cf266a3a18",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Gain a solid understanding of digital marketing concepts and strategies.",
+        "price": 14573,
+        "created_at": "2023-09-08T04:22:58.031Z",
+        "updated_at": "2023-09-08T12:55:48.710Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e941fc7d-2145-470b-9cf9-e28118ac6717",
+        "title": "Photography Masterclass",
+        "description": "Master the art of photography with expert guidance and practical assignments.",
+        "price": 36393,
+        "created_at": "2023-09-08T00:19:18.733Z",
+        "updated_at": "2023-09-08T08:30:13.557Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3f2c76c5-0863-41f2-8de5-9d84fa1a0a8e",
+        "title": "Yoga for Beginners",
+        "description": "Discover the benefits of yoga and learn various poses for beginners.",
+        "price": 10734,
+        "created_at": "2023-09-08T04:13:47.296Z",
+        "updated_at": "2023-09-08T14:09:53.276Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a4b415a7-839e-450a-8090-84169fae8c2c",
+        "title": "Web Development Bootcamp",
+        "description": "Become a skilled web developer by learning HTML, CSS, and JavaScript.",
+        "price": 97268,
+        "created_at": "2023-09-08T21:40:21.665Z",
+        "updated_at": "2023-09-08T19:21:47.909Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "23c44de3-b009-4b88-9127-49f3e4d7ab63",
+        "email": "Chloe58@gmail.com",
+        "firstName": "Asha",
+        "lastName": "Kshlerin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/193.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1802f788-cefa-48b1-a21e-1fa1d1cbd08d",
+        "email": "Estelle.Bednar58@yahoo.com",
+        "firstName": "Chasity",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76918253",
+        "tenantId": null
+      },
+      {
+        "reference": "12559c86-2466-413e-ab8b-3931af644602",
+        "email": "Arvid.Greenholt@hotmail.com",
+        "firstName": "Stefanie",
+        "lastName": "Glover",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/276.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ab4ebf3f-2fa3-4353-a113-9a0a5f27401f",
+        "email": "Zion_Lebsack@hotmail.com",
+        "firstName": "Mikel",
+        "lastName": "Pagac",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/353.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e7647145-6897-4af6-a5ea-5a2d6a9b28b3",
+        "email": "Jeffrey_Maggio@gmail.com",
+        "firstName": "Sharon",
+        "lastName": "Kovacek",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/870.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "39e965cc-f446-4295-baed-abcd69219aa0",
+        "message": "Join us for the upcoming event!",
+        "sent_at": "2023-09-08T10:39:35.035Z",
+        "created_at": "2023-09-08T03:34:16.165Z",
+        "updated_at": "2023-09-08T01:10:57.177Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2ad55f6c-9359-460d-81cf-b813c2b24ae9",
+        "message": "Don't miss out on our exclusive offer!",
+        "sent_at": "2023-09-08T21:04:42.665Z",
+        "created_at": "2023-09-08T06:05:20.653Z",
+        "updated_at": "2023-09-08T12:32:52.153Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aa819724-7b34-4d0f-8524-d4e88c6076b8",
+        "message": "Stay tuned for exciting updates!",
+        "sent_at": "2023-09-08T10:32:33.973Z",
+        "created_at": "2023-09-08T22:55:51.005Z",
+        "updated_at": "2023-09-08T15:20:57.365Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2203d9e8-a290-4740-8d0b-4344a3fd4f60",
+        "message": "Share this message with your friends!",
+        "sent_at": "2023-09-08T05:16:01.296Z",
+        "created_at": "2023-09-08T20:06:03.060Z",
+        "updated_at": "2023-09-08T08:59:39.734Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d5a461b3-927d-4e01-afc6-750c3c1c3f11",
+        "message": "Get ready for a life-changing experience!",
+        "sent_at": "2023-09-08T05:35:19.757Z",
+        "created_at": "2023-09-08T17:58:58.838Z",
+        "updated_at": "2023-09-08T19:10:06.059Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "ab0df100-ae70-43f3-a312-da2608f50879",
+        "title": "Monthly Newsletter",
+        "content": "Discover the latest trends in technology",
+        "published_at": "2023-09-08T10:27:05.454Z",
+        "created_at": "2023-09-08T22:32:55.256Z",
+        "updated_at": "2023-09-08T01:13:10.739Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cc4ace3a-0fb2-4982-b28f-2a5a96ec0ae6",
+        "title": "Inspiration Bulletin",
+        "content": "Learn about effective strategies for personal growth",
+        "published_at": "2023-09-08T06:50:17.965Z",
+        "created_at": "2023-09-08T19:37:51.190Z",
+        "updated_at": "2023-09-08T09:41:06.313Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7e9fdc19-737b-46ef-9df9-5d80ec6c9248",
+        "title": "Latest News Digest",
+        "content": "Explore success stories from our community",
+        "published_at": "2023-09-08T21:02:28.147Z",
+        "created_at": "2023-09-08T04:47:18.271Z",
+        "updated_at": "2023-09-08T09:48:21.161Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c094daa3-a82b-4fa1-a59b-0b72cecb41b5",
+        "title": "Insider Insights",
+        "content": "Stay informed about industry developments",
+        "published_at": "2023-09-08T00:54:42.420Z",
+        "created_at": "2023-09-08T04:58:48.784Z",
+        "updated_at": "2023-09-08T10:05:18.344Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f90345db-f730-43f2-8a88-ae14d9fe8cbc",
+        "title": "Community Update",
+        "content": "Get inspired by stories of innovation and creativity",
+        "published_at": "2023-09-08T00:09:18.871Z",
+        "created_at": "2023-09-08T11:50:51.816Z",
+        "updated_at": "2023-09-08T18:15:37.249Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "d163d5ee-3af4-41a5-baf9-2aee546d1a9e",
+        "question": "How can I reset my password?",
+        "answer": "To reset your password, go to the login page and click on the 'Forgot Password' link.",
+        "price": 64553,
+        "created_at": "2023-09-08T12:39:13.635Z",
+        "updated_at": "2023-09-08T10:42:14.888Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "72b23384-38b4-44e6-b475-0e442755f4e0",
+        "question": "What are the payment options available?",
+        "answer": "We accept all major credit cards and online payment platforms.",
+        "price": 91293,
+        "created_at": "2023-09-08T06:22:21.572Z",
+        "updated_at": "2023-09-08T18:20:13.708Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "163e521f-4ae4-490a-abb9-49c28fee634b",
+        "question": "Do you offer a free trial?",
+        "answer": "Yes, we offer a 7-day free trial for new users.",
+        "price": 36661,
+        "created_at": "2023-09-08T13:05:59.870Z",
+        "updated_at": "2023-09-08T21:27:54.198Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c1e6df0e-b2d4-4621-a722-fb77cb0eb544",
+        "question": "How can I contact customer support?",
+        "answer": "You can contact our customer support team via email or phone.",
+        "price": 53628,
+        "created_at": "2023-09-08T04:17:59.548Z",
+        "updated_at": "2023-09-08T12:49:53.338Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3094f381-cef9-4198-880b-bf57c08ed516",
+        "question": "Are there any prerequisites for the course?",
+        "answer": "No, there are no prerequisites for the course. It is suitable for beginners.",
+        "price": 7526,
+        "created_at": "2023-09-08T04:57:30.683Z",
+        "updated_at": "2023-09-08T06:01:58.616Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "636a906a-96af-4b57-8768-e5d1c4f1652f",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language and build your first application.",
+        "price": 23189,
+        "created_at": "2023-09-08T03:58:05.741Z",
+        "updated_at": "2023-09-08T08:46:51.651Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9f9f2a9c-228b-44a8-bc81-8a6476bcb090",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development and create interactive websites.",
+        "price": 86247,
+        "created_at": "2023-09-08T21:48:03.868Z",
+        "updated_at": "2023-09-08T19:10:46.207Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0d638258-84d0-4532-af1f-a8cd0a1ab592",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing and reach your target audience.",
+        "price": 70641,
+        "created_at": "2023-09-08T11:50:07.838Z",
+        "updated_at": "2023-09-08T20:20:59.843Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7cf18098-e213-43fa-8407-5d632cea6178",
+        "title": "Graphic Design Essentials",
+        "description": "Explore the principles of graphic design and create visually appealing designs.",
+        "price": 17047,
+        "created_at": "2023-09-08T06:46:33.780Z",
+        "updated_at": "2023-09-08T02:31:41.891Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b92b5b6c-ba10-4350-b92b-87dc1f039001",
+        "title": "Data Analysis Techniques",
+        "description": "Learn how to analyze data using statistical techniques and make data-driven decisions.",
+        "price": 3847,
+        "created_at": "2023-09-08T16:00:42.210Z",
+        "updated_at": "2023-09-08T15:02:52.394Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f60ab846-c747-49fe-9b7e-efa45d64a9d1",
+        "email": "Coby86@hotmail.com",
+        "firstName": "Albert",
+        "lastName": "VonRueden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/193.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "33a9f507-b1e7-41e7-aeab-7605d5610582",
+        "email": "Shanel_Tremblay@hotmail.com",
+        "firstName": "Trystan",
+        "lastName": "Fadel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/964.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ad05cd81-f25a-4fd3-8fb7-a92bfa6c1ed5",
+        "email": "Graciela29@yahoo.com",
+        "firstName": "Karley",
+        "lastName": "Dietrich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1024.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f986d251-f247-4f0d-ae3e-e8a591851019",
+        "email": "Lemuel77@yahoo.com",
+        "firstName": "Easton",
+        "lastName": "Lockman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/295.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "29713cce-8feb-4b5a-b498-ab4c0034889c",
+        "email": "Stuart10@hotmail.com",
+        "firstName": "Jayden",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/972.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "db46b328-b585-4e6e-b2d8-95c8aa4edce3",
+        "message": "Join us for the upcoming event on Saturday!",
+        "sent_at": "2023-09-08T00:24:22.412Z",
+        "created_at": "2023-09-08T00:01:33.876Z",
+        "updated_at": "2023-09-08T04:31:59.574Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "be834912-3ac3-47d5-8b15-b5b77c8b9716",
+        "message": "Don't forget to submit your assignments by Friday.",
+        "sent_at": "2023-09-08T06:10:48.321Z",
+        "created_at": "2023-09-08T16:33:42.278Z",
+        "updated_at": "2023-09-08T06:55:13.503Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d0853ced-e3ce-40e3-812e-7e58c3c095c6",
+        "message": "Exciting news! We have a special offer for our loyal customers.",
+        "sent_at": "2023-09-08T02:35:33.908Z",
+        "created_at": "2023-09-08T13:39:28.040Z",
+        "updated_at": "2023-09-08T22:52:06.527Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "45bc8fd2-0643-4d98-b598-262878e7eb89",
+        "message": "Important announcement: The office will be closed on Monday.",
+        "sent_at": "2023-09-08T11:21:07.093Z",
+        "created_at": "2023-09-08T11:51:07.300Z",
+        "updated_at": "2023-09-08T10:48:49.726Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a9e2c1c8-8f8a-4d83-b711-7c6fd7353c79",
+        "message": "New product launch happening next week. Stay tuned!",
+        "sent_at": "2023-09-08T18:48:13.954Z",
+        "created_at": "2023-09-08T14:35:31.069Z",
+        "updated_at": "2023-09-08T12:51:23.475Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "45a3e1e8-90ac-4d9d-a4b9-2d54ff2ecd34",
+        "title": "Monthly Newsletter - September 2021",
+        "content": "In this month's newsletter, we share updates on our recent projects and upcoming events.",
+        "published_at": "2023-09-08T09:58:58.356Z",
+        "created_at": "2023-09-08T00:50:43.377Z",
+        "updated_at": "2023-09-08T20:32:52.169Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "af3298f6-86c4-4559-bf70-39130da424f6",
+        "title": "Exclusive Newsletter for Subscribers",
+        "content": "Learn about the latest industry trends and tips to improve your skills.",
+        "published_at": "2023-09-08T19:09:30.971Z",
+        "created_at": "2023-09-08T17:52:15.289Z",
+        "updated_at": "2023-09-08T18:37:23.886Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "031f9165-d9ea-421a-858b-3baa9b3c71d0",
+        "title": "Stay Informed with Our Latest Newsletter",
+        "content": "Discover exclusive offers and discounts available only to our newsletter subscribers.",
+        "published_at": "2023-09-08T16:29:00.231Z",
+        "created_at": "2023-09-08T10:37:32.411Z",
+        "updated_at": "2023-09-08T10:30:20.048Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c570ab49-f921-4985-9c15-5f389f9f0656",
+        "title": "Get Inspired with Our Newsletter",
+        "content": "Get inspired by success stories and interviews with industry experts.",
+        "published_at": "2023-09-08T02:59:39.445Z",
+        "created_at": "2023-09-08T12:26:06.008Z",
+        "updated_at": "2023-09-08T01:54:53.392Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "71940523-8c40-40ba-b3c1-0ddf88555be5",
+        "title": "The Best Newsletter You'll Ever Read",
+        "content": "Stay up to date with the latest news and developments in our field.",
+        "published_at": "2023-09-08T01:40:41.160Z",
+        "created_at": "2023-09-08T18:07:26.914Z",
+        "updated_at": "2023-09-08T23:22:27.423Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "60bbb21a-e690-4ef1-8038-735626a3311d",
+        "question": "How do I reset my password?",
+        "answer": "To reset your password, go to the login page and click on the 'Forgot Password' link.",
+        "price": 27514,
+        "created_at": "2023-09-08T16:56:51.493Z",
+        "updated_at": "2023-09-08T13:12:27.544Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "321b87a8-b07e-49eb-ab6a-400d13ddfa58",
+        "question": "What are the payment options available?",
+        "answer": "We accept credit/debit cards, PayPal, and bank transfers as payment options.",
+        "price": 48463,
+        "created_at": "2023-09-08T21:12:07.274Z",
+        "updated_at": "2023-09-08T16:57:40.675Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3cacfa9b-1e20-46e6-bfc8-3b3fb1994437",
+        "question": "Can I cancel my subscription at any time?",
+        "answer": "Yes, you can cancel your subscription at any time without any penalties.",
+        "price": 79228,
+        "created_at": "2023-09-08T15:23:06.069Z",
+        "updated_at": "2023-09-08T01:20:17.686Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9207631e-80aa-4670-bfb3-1c0d0baa94f8",
+        "question": "How long does it take to complete the course?",
+        "answer": "The duration of the course varies depending on the program. Please refer to the course details for more information.",
+        "price": 62724,
+        "created_at": "2023-09-08T23:13:26.024Z",
+        "updated_at": "2023-09-08T17:02:13.638Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "63c2b9c7-fc34-4571-b845-bedba40e820f",
+        "question": "Is there a money-back guarantee?",
+        "answer": "Yes, we offer a 30-day money-back guarantee if you are not satisfied with the course.",
+        "price": 7645,
+        "created_at": "2023-09-08T13:06:42.388Z",
+        "updated_at": "2023-09-08T20:01:54.131Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "a6bae240-1ee2-449f-b358-b0bc576c9eb1",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming and start building your own applications.",
+        "price": 61150,
+        "created_at": "2023-09-08T01:33:28.027Z",
+        "updated_at": "2023-09-08T13:08:29.922Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1f413d43-1ec3-4b09-a2df-083ca6c11bdf",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development and create responsive websites.",
+        "price": 27608,
+        "created_at": "2023-09-08T13:39:08.802Z",
+        "updated_at": "2023-09-08T11:27:46.615Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "70aae45d-f581-4e02-b2eb-d46691dc281e",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies to promote businesses online and reach a wider audience.",
+        "price": 94713,
+        "created_at": "2023-09-08T18:09:52.659Z",
+        "updated_at": "2023-09-08T14:18:32.071Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "97481272-ae4f-451b-990f-deca195f9658",
+        "title": "Financial Management for Beginners",
+        "description": "Gain a solid understanding of financial management principles and make informed decisions.",
+        "price": 20383,
+        "created_at": "2023-09-08T14:31:15.710Z",
+        "updated_at": "2023-09-08T17:00:24.323Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f311e5f3-dca0-4ab6-b863-71735a20e580",
+        "title": "Photography Masterclass",
+        "description": "Unlock your creativity and learn the art of photography from industry professionals.",
+        "price": 21695,
+        "created_at": "2023-09-08T05:47:38.541Z",
+        "updated_at": "2023-09-08T04:03:50.589Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e0031178-6215-4983-bdfa-527129e86560",
+        "email": "Shayne44@hotmail.com",
+        "firstName": "Makayla",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20236783",
+        "tenantId": null
+      },
+      {
+        "reference": "9ab7411b-fe9f-4d7e-b515-e2fcd44edf00",
+        "email": "Alaina4@yahoo.com",
+        "firstName": "Efren",
+        "lastName": "Bogan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1104.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6da2340e-4e40-4a74-8ed7-2c8e222096a4",
+        "email": "Osbaldo_OReilly@yahoo.com",
+        "firstName": "Edgar",
+        "lastName": "Gibson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/149.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5c7c2fc3-11ad-45ad-ba49-38fb9f7e931b",
+        "email": "Elinor14@yahoo.com",
+        "firstName": "Devin",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/573.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "526aa63e-deff-4f22-a289-c442efd28d8c",
+        "email": "Amara_Gleichner42@yahoo.com",
+        "firstName": "Marvin",
+        "lastName": "Adams",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97880923",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "4c9626d9-2785-4f1c-9837-c5c051b76b2f",
+        "message": "Join us for the upcoming event!",
+        "sent_at": "2023-09-08T07:41:13.991Z",
+        "created_at": "2023-09-08T06:28:57.574Z",
+        "updated_at": "2023-09-08T23:52:40.917Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ee4419a8-755d-46d7-a1ce-67afce5117bb",
+        "message": "Don't miss out on our exclusive offers!",
+        "sent_at": "2023-09-08T06:07:26.939Z",
+        "created_at": "2023-09-08T16:56:27.779Z",
+        "updated_at": "2023-09-08T10:49:24.351Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2901002f-a04c-46b0-8a52-98e0b6832c5d",
+        "message": "Stay updated with the latest news and updates!",
+        "sent_at": "2023-09-08T18:41:34.593Z",
+        "created_at": "2023-09-08T05:20:54.526Z",
+        "updated_at": "2023-09-08T21:58:48.881Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8a4484b9-3290-47ab-81c6-e4383b05e5e9",
+        "message": "Learn more about our products and services!",
+        "sent_at": "2023-09-08T16:46:40.972Z",
+        "created_at": "2023-09-08T00:47:37.523Z",
+        "updated_at": "2023-09-08T21:09:30.563Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4dbeb625-b802-4e86-80c8-f401f25809ee",
+        "message": "Get inspired with our daily motivational quotes!",
+        "sent_at": "2023-09-08T02:06:11.502Z",
+        "created_at": "2023-09-08T19:53:27.202Z",
+        "updated_at": "2023-09-08T17:16:16.978Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "4533d3e0-d4c9-493a-a748-f0435c8851da",
+        "title": "Monthly Newsletter",
+        "content": "Check out our featured articles and interviews.",
+        "published_at": "2023-09-08T12:14:06.840Z",
+        "created_at": "2023-09-08T15:45:43.160Z",
+        "updated_at": "2023-09-08T14:01:08.674Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d8b1fdbf-ca18-404e-979c-89aa58085eab",
+        "title": "Industry Insights",
+        "content": "Learn about the latest trends in the industry.",
+        "published_at": "2023-09-08T12:48:29.046Z",
+        "created_at": "2023-09-08T12:56:13.722Z",
+        "updated_at": "2023-09-08T17:00:52.408Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fae976d2-b33b-426f-b856-635234300fc1",
+        "title": "Product Updates",
+        "content": "Discover tips and tricks to boost your productivity.",
+        "published_at": "2023-09-08T23:23:57.056Z",
+        "created_at": "2023-09-08T08:23:26.580Z",
+        "updated_at": "2023-09-08T12:41:17.357Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "af865dd0-d8dc-438f-a057-06f430901915",
+        "title": "Expert Advice",
+        "content": "Get exclusive discounts and promotions.",
+        "published_at": "2023-09-08T21:23:24.799Z",
+        "created_at": "2023-09-08T03:52:16.175Z",
+        "updated_at": "2023-09-08T04:28:36.386Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "65bd600a-461b-4b2a-935f-e562a05a3f0b",
+        "title": "Inspiration Corner",
+        "content": "Read success stories from our satisfied customers.",
+        "published_at": "2023-09-08T11:43:37.591Z",
+        "created_at": "2023-09-08T07:04:43.184Z",
+        "updated_at": "2023-09-08T06:52:13.752Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "bca26243-69be-478c-97d8-ef4edd069959",
+        "question": "How do I sign up for an account?",
+        "answer": "To sign up, simply click on the 'Register' button and fill out the required information.",
+        "price": 19172,
+        "created_at": "2023-09-08T13:26:26.465Z",
+        "updated_at": "2023-09-08T21:40:18.284Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "70490a51-08c1-426f-9f6f-ecee589719cd",
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards and PayPal as payment methods.",
+        "price": 52493,
+        "created_at": "2023-09-08T03:51:21.088Z",
+        "updated_at": "2023-09-08T17:11:39.501Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "60e2b68a-762b-478b-bf41-62fa1dd5c05e",
+        "question": "Can I cancel my subscription anytime?",
+        "answer": "Yes, you can cancel your subscription at any time without any penalties.",
+        "price": 79813,
+        "created_at": "2023-09-08T00:05:39.103Z",
+        "updated_at": "2023-09-08T02:48:22.821Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "785a9604-4500-4012-88b0-cbb421ab764e",
+        "question": "How long does it take to receive a response from customer support?",
+        "answer": "Our customer support team typically responds within 24 hours.",
+        "price": 22672,
+        "created_at": "2023-09-08T03:34:51.249Z",
+        "updated_at": "2023-09-08T17:23:29.966Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ccbc688f-fd9a-47dd-830b-dd6465c21811",
+        "question": "Are there any prerequisites for enrolling in the course?",
+        "answer": "There are no prerequisites for enrolling in the course. It is open to all.",
+        "price": 92023,
+        "created_at": "2023-09-08T15:43:16.628Z",
+        "updated_at": "2023-09-08T12:17:28.267Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "b429f742-1633-464e-8a5d-58e510be9929",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language and build your first project.",
+        "price": 48905,
+        "created_at": "2023-09-08T02:40:08.303Z",
+        "updated_at": "2023-09-08T01:30:25.637Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "60ea49db-0ffe-43f9-898b-68de7bcf4843",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Gain a comprehensive understanding of digital marketing strategies and techniques.",
+        "price": 40403,
+        "created_at": "2023-09-08T00:34:58.688Z",
+        "updated_at": "2023-09-08T06:56:52.225Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7b1d4327-678f-440b-8fc4-fcf9dd0985de",
+        "title": "Financial Planning and Analysis",
+        "description": "Master the skills required for financial planning and analysis in the corporate world.",
+        "price": 95519,
+        "created_at": "2023-09-08T02:18:33.740Z",
+        "updated_at": "2023-09-08T06:16:24.780Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a0e28a49-5972-4777-8cae-dec4133cf769",
+        "title": "Graphic Design for Beginners",
+        "description": "Explore the fundamentals of graphic design and create visually appealing designs.",
+        "price": 66256,
+        "created_at": "2023-09-08T04:05:25.226Z",
+        "updated_at": "2023-09-08T05:03:25.185Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2e1b48a9-847b-4852-985c-311b02a5c275",
+        "title": "Photography Masterclass",
+        "description": "Take your photography skills to the next level with this comprehensive masterclass.",
+        "price": 43189,
+        "created_at": "2023-09-08T20:11:12.351Z",
+        "updated_at": "2023-09-08T06:47:31.850Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8a1d581d-3847-48fe-9252-b5032b1fe88e",
+        "email": "Clara_Reynolds@hotmail.com",
+        "firstName": "Violette",
+        "lastName": "Hodkiewicz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/893.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6deaa046-1c89-4cdf-9036-05749db33cdf",
+        "email": "Karine60@hotmail.com",
+        "firstName": "Anissa",
+        "lastName": "Kshlerin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1022.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d5f73117-7d27-4fa8-b6bf-83e44de0c144",
+        "email": "Major_Jacobs50@gmail.com",
+        "firstName": "Edd",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/662.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "21594842-8fb9-44d6-8418-bc3c4a08ac45",
+        "email": "Velma.West75@gmail.com",
+        "firstName": "Dameon",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49775404",
+        "tenantId": null
+      },
+      {
+        "reference": "5828f520-9e33-4f41-9f8b-0cdb817cdbc9",
+        "email": "Ronny_Ward@gmail.com",
+        "firstName": "Fermin",
+        "lastName": "Gleichner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1071.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "whatsapp_broadcast": [
+      {
+        "id": "9e801852-f3cf-48fb-91bd-a8074dfe89e9",
+        "message": "Don't forget to join us for the event tomorrow!",
+        "sent_at": "2023-09-08T05:30:29.612Z",
+        "created_at": "2023-09-08T07:32:12.745Z",
+        "updated_at": "2023-09-08T02:52:23.695Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a787d3ee-b57e-42d9-b878-afa87332da4c",
+        "message": "Exciting news! Our new product is now available!",
+        "sent_at": "2023-09-08T04:30:04.823Z",
+        "created_at": "2023-09-08T20:58:55.036Z",
+        "updated_at": "2023-09-08T22:25:53.674Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "883e5fab-3e81-4665-84e6-e89399cdda22",
+        "message": "Important announcement: Changes to our office hours",
+        "sent_at": "2023-09-08T02:07:15.411Z",
+        "created_at": "2023-09-08T03:44:53.032Z",
+        "updated_at": "2023-09-08T00:28:24.249Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "79f0ee0a-7214-497e-be5a-d3108080bebf",
+        "message": "Join our webinar on the latest industry trends",
+        "sent_at": "2023-09-08T08:41:41.095Z",
+        "created_at": "2023-09-08T11:42:08.029Z",
+        "updated_at": "2023-09-08T00:55:14.879Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e817d61a-2b9b-41fb-afb3-04ffd9c1417a",
+        "message": "Thank you for your continued support!",
+        "sent_at": "2023-09-08T21:33:52.893Z",
+        "created_at": "2023-09-08T06:52:16.922Z",
+        "updated_at": "2023-09-08T18:24:03.753Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "newsletter": [
+      {
+        "id": "a21cba36-fdc0-43a2-ba8d-2f157a246c74",
+        "title": "Monthly Newsletter - October 2021",
+        "content": "In this month's newsletter, we share updates on our recent projects and initiatives.",
+        "published_at": "2023-09-08T14:19:03.121Z",
+        "created_at": "2023-09-08T15:29:17.616Z",
+        "updated_at": "2023-09-08T18:09:36.251Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5362b347-f5e7-428b-a66d-8134e1f014ac",
+        "title": "Exclusive Offers for Subscribers",
+        "content": "As a valued subscriber, you have access to exclusive discounts and promotions.",
+        "published_at": "2023-09-08T19:40:45.807Z",
+        "created_at": "2023-09-08T20:43:46.933Z",
+        "updated_at": "2023-09-08T15:12:26.209Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6d926171-0bb8-44a2-a232-7a8da61e6519",
+        "title": "Stay Updated with Our Latest News",
+        "content": "Learn about our upcoming events and stay connected with our community.",
+        "published_at": "2023-09-08T13:29:47.357Z",
+        "created_at": "2023-09-08T23:54:59.772Z",
+        "updated_at": "2023-09-08T05:51:05.764Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8d83d64-1ac4-4584-94b2-7e33ce66cfbb",
+        "title": "Inspiring Stories from Our Community",
+        "content": "Discover inspiring stories of individuals making a difference in their communities.",
+        "published_at": "2023-09-08T05:11:17.998Z",
+        "created_at": "2023-09-08T15:44:31.202Z",
+        "updated_at": "2023-09-08T07:10:42.126Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "769e18bc-4a8e-4417-8260-95e083256261",
+        "title": "Tips and Tricks for a Healthy Lifestyle",
+        "content": "Get expert advice and tips for maintaining a healthy lifestyle.",
+        "published_at": "2023-09-08T22:50:09.448Z",
+        "created_at": "2023-09-08T21:05:42.575Z",
+        "updated_at": "2023-09-08T06:44:52.893Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "faq": [
+      {
+        "id": "da90cf47-7eea-420a-9d98-e28da8ec35c5",
+        "question": "How do I reset my password?",
+        "answer": "To reset your password, go to the login page and click on the 'Forgot Password' link.",
+        "price": 97961,
+        "created_at": "2023-09-07T23:57:57.373Z",
+        "updated_at": "2023-09-08T14:53:14.869Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "01ab6799-60c7-422a-86d9-0871e4bc3521",
+        "question": "What are the payment options available?",
+        "answer": "We accept various payment methods including credit cards, PayPal, and bank transfers.",
+        "price": 32492,
+        "created_at": "2023-09-08T22:25:45.341Z",
+        "updated_at": "2023-09-08T05:33:33.664Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2b98ebbc-5edd-475e-ae7a-db1a5a8f9b57",
+        "question": "Can I cancel my subscription at any time?",
+        "answer": "Yes, you can cancel your subscription at any time by contacting our support team.",
+        "price": 42432,
+        "created_at": "2023-09-08T07:55:53.347Z",
+        "updated_at": "2023-09-08T18:49:19.415Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6edb1566-7f66-42bd-b5aa-c511d9169697",
+        "question": "How long does it take to process a refund?",
+        "answer": "Refunds are typically processed within 5-7 business days after the request is approved.",
+        "price": 63946,
+        "created_at": "2023-09-08T16:25:32.034Z",
+        "updated_at": "2023-09-08T08:59:09.351Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cdf01025-7f17-4c91-875f-c7974e6f0c13",
+        "question": "Is there a free trial period for the course?",
+        "answer": "Yes, we offer a free trial period of 7 days for our courses.",
+        "price": 54355,
+        "created_at": "2023-09-08T22:44:06.114Z",
+        "updated_at": "2023-09-08T09:51:57.465Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "b3dfb986-6319-4a81-a696-3e7c8e42ed57",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language and build your first application.",
+        "price": 64189,
+        "created_at": "2023-09-08T04:02:32.679Z",
+        "updated_at": "2023-09-08T23:07:15.209Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2aa88b9e-d699-4c51-b908-1e4b0083b31a",
+        "title": "Web Development Fundamentals",
+        "description": "Gain a solid foundation in web development and create interactive websites.",
+        "price": 32159,
+        "created_at": "2023-09-08T07:27:25.035Z",
+        "updated_at": "2023-09-08T06:03:45.915Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "01567d44-c33d-4846-810e-91e7029b1d29",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective digital marketing strategies to grow your online presence.",
+        "price": 45344,
+        "created_at": "2023-09-08T00:12:05.751Z",
+        "updated_at": "2023-09-08T10:01:33.233Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "767cc575-c1d2-465c-8576-17f3d4ae1840",
+        "title": "Financial Planning and Investment",
+        "description": "Understand key concepts of financial planning and make informed investment decisions.",
+        "price": 65733,
+        "created_at": "2023-09-08T22:59:01.281Z",
+        "updated_at": "2023-09-08T10:08:14.435Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "86d8851c-519b-412a-b9f3-78c2b21b1028",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the fascinating field of artificial intelligence and machine learning.",
+        "price": 90780,
+        "created_at": "2023-09-08T16:05:02.788Z",
+        "updated_at": "2023-09-08T12:55:08.285Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cd732a61-01dc-44ae-8362-da2169d24d3b",
+        "email": "Josefina_Nader@gmail.com",
+        "firstName": "Ines",
+        "lastName": "Wuckert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/406.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "587ef66e-4c41-421a-94bf-ccff89328546",
+        "email": "Mohammad30@yahoo.com",
+        "firstName": "Benny",
+        "lastName": "Bernier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/802.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b40a1025-0308-45c5-9c4e-8e08f20c113c",
+        "email": "Ena63@gmail.com",
+        "firstName": "Theresa",
+        "lastName": "Reinger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/807.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2462b888-c354-4944-a98b-85fa3dee7852",
+        "email": "Kailee.Maggio@hotmail.com",
+        "firstName": "Jo",
+        "lastName": "Powlowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9942569",
+        "tenantId": null
+      },
+      {
+        "reference": "71164596-6974-4232-8219-23b6ad3cd5e1",
+        "email": "Grayson_Parker99@hotmail.com",
+        "firstName": "Aida",
+        "lastName": "VonRueden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/897.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
